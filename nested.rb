@@ -84,7 +84,7 @@ def adding_matz
 				 },
   
 
-return programmer_hash
+new_programmer_hash
 end
 
 
